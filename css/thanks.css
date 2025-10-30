@@ -24,7 +24,7 @@ body {
 h1 {
     font-size: 4em;
     letter-spacing: 3px;
-    color: #e0c568ff;
+    color: #97bc62ff;
     font-family: "Roboto", sans-serif;
     margin: 0;
     margin-bottom: 20px;
@@ -37,7 +37,7 @@ h1 {
     letter-spacing: 1px;
 }
 .go-home {
-    background: #e0c568ff;
+    background: #97bc62ff;
     border: 2px solid #ffffff;
     border-radius: 0px;
     color: #ffffff;
@@ -58,10 +58,10 @@ h1 {
 }
 .go-home:hover {
     background: transparent;
-    border-color: #e0c568ff;
+    border-color: #97bc62ff;
 }
 a:hover .go-home {
-    color: #e0c568ff;
+    color: #97bc62ff;
 }
 .go-home a {
     text-decoration: none;
@@ -77,13 +77,13 @@ a:hover .go-home {
 .footer-like p {
     margin: 0;
     padding: 4px;
-    color: #e0c568ff;
+    color: #97bc62ff;
     font-family: "Source Sans Pro", sans-serif;
     letter-spacing: 1px;
 }
 .footer-like p a {
     text-decoration: none;
-    color: #e0c568ff;
+    color: #97bc62ff;
     font-weight: 600;
 }
 
